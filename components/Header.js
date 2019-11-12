@@ -29,6 +29,7 @@ const Header = () => {
                 <NavLink title="Home" />
                 <NavLink title="About" />
                 <NavLink title="Profile" />
+                <NavLink title="MediaInfo" />
             </Nav>
             <Nav className="ml-auto">
                 <SearchBar />
