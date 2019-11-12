@@ -42,7 +42,6 @@ const profileCard = {
     borderStyle: 'solid',
     borderColor: '#d8d8d8',
     borderWidth: 2,
-    
 };
 
 const profileImg = {
