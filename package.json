@@ -31,7 +31,7 @@
     "dotenv": "^8.2.0",
     "dotenv-webpack": "^1.7.0",
     "ejs": "^2.7.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.0",
     "mdbreact": "^4.21.0",
